@@ -1,0 +1,2 @@
+# EEL 4930 (Computer Vision) Final Project 
+This repository holds the source code for my computer vision final project, reconstructing results from *A difference-in-difference approach to detecting AI-Generated Images* (https://arxiv.org/pdf/2602.23732) and applying my own techniques. 
